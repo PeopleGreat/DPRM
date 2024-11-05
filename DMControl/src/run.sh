@@ -1,0 +1,1 @@
+python train.py --config-path ./configs --config-name cartpole_swingup \
